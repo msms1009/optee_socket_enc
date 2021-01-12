@@ -4,3 +4,5 @@ using socket and RSA,
 communication with optee,
 Have to install optee,
 optee is open source TrustZone
+
+20210102 add host files
